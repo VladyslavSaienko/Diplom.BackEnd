@@ -1,0 +1,11 @@
+C:\Users\User\Source\Diplom\Diplom.BackEnd\diplom.BackEnd\diplom.BackEnd\bin\Debug\netcoreapp2.0\diplom.BackEnd.deps.json
+C:\Users\User\Source\Diplom\Diplom.BackEnd\diplom.BackEnd\diplom.BackEnd\bin\Debug\netcoreapp2.0\diplom.BackEnd.runtimeconfig.json
+C:\Users\User\Source\Diplom\Diplom.BackEnd\diplom.BackEnd\diplom.BackEnd\bin\Debug\netcoreapp2.0\diplom.BackEnd.runtimeconfig.dev.json
+C:\Users\User\Source\Diplom\Diplom.BackEnd\diplom.BackEnd\diplom.BackEnd\bin\Debug\netcoreapp2.0\diplom.BackEnd.dll
+C:\Users\User\Source\Diplom\Diplom.BackEnd\diplom.BackEnd\diplom.BackEnd\bin\Debug\netcoreapp2.0\diplom.BackEnd.pdb
+C:\Users\User\Source\Diplom\Diplom.BackEnd\diplom.BackEnd\diplom.BackEnd\obj\Debug\netcoreapp2.0\diplom.BackEnd.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Diplom\Diplom.BackEnd\diplom.BackEnd\diplom.BackEnd\obj\Debug\netcoreapp2.0\diplom.BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Diplom\Diplom.BackEnd\diplom.BackEnd\diplom.BackEnd\obj\Debug\netcoreapp2.0\diplom.BackEnd.AssemblyInfoInputs.cache
+C:\Users\User\Source\Diplom\Diplom.BackEnd\diplom.BackEnd\diplom.BackEnd\obj\Debug\netcoreapp2.0\diplom.BackEnd.AssemblyInfo.cs
+C:\Users\User\Source\Diplom\Diplom.BackEnd\diplom.BackEnd\diplom.BackEnd\obj\Debug\netcoreapp2.0\diplom.BackEnd.dll
+C:\Users\User\Source\Diplom\Diplom.BackEnd\diplom.BackEnd\diplom.BackEnd\obj\Debug\netcoreapp2.0\diplom.BackEnd.pdb
